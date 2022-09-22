@@ -1,6 +1,10 @@
-.nodec {
+.nodecwhite {
   text-decoration: none;
   color: white;
+}
+
+.nodec {
+  text-decoration: none;
 }
 
 .grad {
@@ -36,5 +40,29 @@
 .aw-ultra {
   background-position: center;
   background-image: url(/assets/images/backgrounds/promo_apple_watch_ultra_avail__ddgwll601eie_large.jpg);
+  background-repeat: no-repeat;
+}
+
+.ap-pro {
+  background-position: center;
+  background-image: url(/assets/images/backgrounds/promo_airpods_pro_avail__gaxggskofx6y_large.jpg);
+  background-repeat: no-repeat;
+}
+
+.mb-air {
+  background-position: center;
+  background-image: url(/assets/images/backgrounds/promo_macbookair__fywl7i82fueu_large.png);
+  background-repeat: no-repeat;
+}
+
+.ip-air {
+  background-position: center;
+  background-image: url(/assets/images/backgrounds/promo_ipadair_avail__ferd4bfpcdm6_large.jpg);
+  background-repeat: no-repeat;
+}
+
+.arcade {
+  background-position: center;
+  background-image: url(/assets/images/backgrounds/promo_jetpack_joyride__ewcvyoggt4cy_large.jpg);
   background-repeat: no-repeat;
 }
