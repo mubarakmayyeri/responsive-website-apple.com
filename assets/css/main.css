@@ -1,0 +1,40 @@
+.nodec {
+  text-decoration: none;
+  color: white;
+}
+
+.grad {
+  background-image: linear-gradient(to right, rgb(57, 0, 117) , rgb(141, 58, 180));
+}
+
+.heroes, .promos {
+  height: 600px;
+  
+}
+
+.ip-14-pro {
+  background-position: center;
+  background-image: url(/assets/images/backgrounds/hero_iphone14pro__e5xbgo5ffhg2_large.jpg);
+}
+
+.ip-14 {
+  background-position: center;
+  background-image: url(/assets/images/backgrounds/hero_iphone14_preorder__c4g2wjzuugqe_large.jpg);
+}
+
+.ap-watch {
+  background-position: center;
+  background-image: url(/assets/images/backgrounds/hero_apple_watch_series_8__bjc1ok5mkjua_large.jpg);
+}
+
+.aw-se {
+  background-position: center;
+  background-image: url(/assets/images/backgrounds/promo_apple_watch_se_avail__e5unstfyokae_large.jpg);
+  background-repeat: no-repeat;
+}
+
+.aw-ultra {
+  background-position: center;
+  background-image: url(/assets/images/backgrounds/promo_apple_watch_ultra_avail__ddgwll601eie_large.jpg);
+  background-repeat: no-repeat;
+}

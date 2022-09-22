@@ -1,0 +1,12 @@
+.tp {
+  opacity: .90;
+}
+
+.dcenter {
+  display: flex;
+  justify-content: center;
+}
+
+.logo {
+  color: rgb(175, 175, 175);
+}
