@@ -16,9 +16,13 @@
   background-image: linear-gradient(to right, rgb(57, 0, 117) , rgb(141, 58, 180));
 }
 
-.heroes, .promos {
-  height: 600px;
+.heroes {
+  height: 34rem;
   
+}
+
+.promos {
+  height: 38rem;
 }
 
 .ip-14-pro {

@@ -20,6 +20,6 @@ $('.panel-collapse2').on('hide.bs.collapse', function () {
   if(windowSize < 720) {
      $('.panel-collapse2').collapse('hide');
   } else {
-      $('.panel-collapse2').collapse('show');
+      $('.panel-collapse2').collapse('hide');
   }
 });
