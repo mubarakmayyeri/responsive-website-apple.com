@@ -10,23 +10,23 @@ This is a clone website of apple.com created using HTML, CSS and Bootstrap. The 
 ### Home page
 
 * #### Large Devices
-![alt text](https://github.com/mubarakmayyeri/responsive-website-apple.com/assets/github/1.jpg)
+![alt text](https://github.com/mubarakmayyeri/responsive-website-apple.com/blob/main/assets/github/1.jpg)
 * #### Small Devices
-![alt text](https://github.com/mubarakmayyeri/responsive-website-apple.com/assets/github/1.1.jpg)
+![alt text](https://github.com/mubarakmayyeri/responsive-website-apple.com/blob/main/assets/github/1.1.jpg)
 
 ### Main Section
 
 * #### Large Devices
-![alt text](https://github.com/mubarakmayyeri/responsive-website-apple.com/assets/github/2.jpg)
+![alt text](https://github.com/mubarakmayyeri/responsive-website-apple.com/blob/main/assets/github/2.jpg)
 * #### Small Devices
-![alt text](https://github.com/mubarakmayyeri/responsive-website-apple.com/assets/github/2.2.jpg)
+![alt text](https://github.com/mubarakmayyeri/responsive-website-apple.com/blob/main/assets/github/2.2.jpg)
 
-### Home page
+### Footer
 
 * #### Large Devices
-![alt text](https://github.com/mubarakmayyeri/responsive-website-apple.com/assets/github/3.jpg)
+![alt text](https://github.com/mubarakmayyeri/responsive-website-apple.com/blob/main/assets/github/3.jpg)
 * #### Small Devices
-![alt text](https://github.com/mubarakmayyeri/responsive-website-apple.com/assets/github/3.3.jpg)
+![alt text](https://github.com/mubarakmayyeri/responsive-website-apple.com/blob/main/assets/github/3.3.jpg)
 
 ## Resources used
 
