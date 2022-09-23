@@ -1,5 +1,9 @@
-nav a {
-  font-size: 0.1rem;
+nav {
+  font-size: 0.800rem;
+}
+
+nav i {
+  font-size: 1.3rem;
 }
 
 .tp {
@@ -13,4 +17,8 @@ nav a {
 
 .logo {
   color: rgb(175, 175, 175);
+}
+
+.navbar-toggler {
+  border-style: none;
 }
