@@ -1,5 +1,9 @@
+nav a {
+  font-size: 0.1rem;
+}
+
 .tp {
-  opacity: .90;
+  opacity: .95;
 }
 
 .dcenter {

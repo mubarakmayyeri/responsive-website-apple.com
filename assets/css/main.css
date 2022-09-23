@@ -23,51 +23,72 @@
 
 .ip-14-pro {
   background-position: center;
+  background-repeat: no-repeat;
   background-image: url(/assets/images/backgrounds/hero_iphone14pro__e5xbgo5ffhg2_large.jpg);
 }
 
 .ip-14 {
   background-position: center;
+  background-repeat: no-repeat;
   background-image: url(/assets/images/backgrounds/hero_iphone14_preorder__c4g2wjzuugqe_large.jpg);
 }
 
 .ap-watch {
   background-position: center;
+  background-repeat: no-repeat;
   background-image: url(/assets/images/backgrounds/hero_apple_watch_series_8__bjc1ok5mkjua_large.jpg);
 }
 
 .aw-se {
   background-position: center;
+  background-repeat: no-repeat;
   background-image: url(/assets/images/backgrounds/promo_apple_watch_se_avail__e5unstfyokae_large.jpg);
   background-repeat: no-repeat;
 }
 
 .aw-ultra {
   background-position: center;
+  background-repeat: no-repeat;
   background-image: url(/assets/images/backgrounds/promo_apple_watch_ultra_avail__ddgwll601eie_large.jpg);
   background-repeat: no-repeat;
 }
 
 .ap-pro {
   background-position: center;
+  background-repeat: no-repeat;
   background-image: url(/assets/images/backgrounds/promo_airpods_pro_avail__gaxggskofx6y_large.jpg);
   background-repeat: no-repeat;
 }
 
 .mb-air {
   background-position: center;
+  background-repeat: no-repeat;
   background-image: url(/assets/images/backgrounds/promo_macbookair__fywl7i82fueu_large.png);
   background-repeat: no-repeat;
 }
 
 .ip-air {
   background-position: center;
+  background-repeat: no-repeat;
   background-image: url(/assets/images/backgrounds/promo_ipadair_avail__ferd4bfpcdm6_large.jpg);
   background-repeat: no-repeat;
 }
 
 .arcade {
-  background-position: center;
   background-image: url(/assets/images/backgrounds/promo_jetpack_joyride__ewcvyoggt4cy_large.jpg);
-  background-repeat: no-repeat;
+}
+
+@media screen and (max-width: 735px) {
+  .ip-14-pro {
+    background-image: url(/assets/images/backgrounds/hero_iphone14pro__e5xbgo5ffhg2_small.jpg);
+  }
+  
+  .ip-14 {
+    background-image: url(/assets/images/backgrounds/hero_iphone14_preorder__c4g2wjzuugqe_small.jpg);
+  }
+  
+  .ap-watch {
+    background-image: url(/assets/images/backgrounds/hero_apple_watch_series_8__bjc1ok5mkjua_small.jpg);
+  }
+  
 }
