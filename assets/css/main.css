@@ -3,6 +3,11 @@
   color: white;
 }
 
+.nodecblack {
+  text-decoration: none;
+  color: black;
+}
+
 .nodec {
   text-decoration: none;
 }
