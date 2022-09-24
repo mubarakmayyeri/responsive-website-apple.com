@@ -1,16 +1,3 @@
-.nodecwhite {
-  text-decoration: none;
-  color: white;
-}
-
-.nodecblack {
-  text-decoration: none;
-  color: black;
-}
-
-.nodec {
-  text-decoration: none;
-}
 
 .grad {
   background-image: linear-gradient(to right, rgb(57, 0, 117) , rgb(141, 58, 180));
